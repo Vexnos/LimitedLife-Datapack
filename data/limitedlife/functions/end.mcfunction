@@ -1,0 +1,4 @@
+gamerule doDaylightCycle false
+gamerule doWeatherCycle false
+gamerule randomTickSpeed 0
+schedule clear limitedlife:timer
