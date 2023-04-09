@@ -1,4 +1,4 @@
-tag @a[sort=random,team=!grey,tag=!Boogeyman,limit=1] add Boogeyman
+tag @a[sort=random,team=!red,team=!grey,tag=!Boogeyman,limit=1] add Boogeyman
 title @a[tag=!Boogeyman] title {"text":"NOT the Boogeyman","color":"green"}
 title @a[tag=Boogeyman] title {"text":"The Boogeyman","color":"red"}
 execute as @a[tag=!Boogeyman] at @s run playsound entity.experience_orb.pickup master @s

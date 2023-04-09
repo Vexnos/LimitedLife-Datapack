@@ -23,7 +23,6 @@ scoreboard objectives setdisplay belowName health
 gamerule doDaylightCycle false
 gamerule doWeatherCycle false
 gamerule randomTickSpeed 0
-time set 0
 tag @a remove out
 schedule function limitedlife:boogeykill 1t
 schedule function limitedlife:finaldeath 1t
