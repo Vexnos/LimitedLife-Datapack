@@ -31,3 +31,4 @@ schedule function limitedlife:lives 1t
 schedule function limitedlife:death 1t
 schedule function limitedlife:kill 1t
 schedule function limitedlife:displaytime 1t
+time set 1
