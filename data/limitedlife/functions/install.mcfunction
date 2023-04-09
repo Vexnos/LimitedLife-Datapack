@@ -7,6 +7,7 @@ team modify red color red
 team add grey "Grey"
 team modify grey color gray
 scoreboard objectives add Time dummy
+scoreboard players set @a Time 86400
 scoreboard objectives add Deaths deathCount
 scoreboard objectives add kills playerKillCount
 scoreboard objectives add 3600 dummy
